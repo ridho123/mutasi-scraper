@@ -1,5 +1,5 @@
 {
-  "name": "mutasi-scraper",
+  "name": "octo-scraper",
   "version": "1.7.4",
   "main": "index.js",
   "directories": {
@@ -11,9 +11,9 @@
     "test": "jest",
     "start": "node server.js"
   },
-  "author": "Abdul Muttaqin",
+  "author": "Ridho",
   "license": "MIT",
-  "description": "Scrap all settlement from indonesian banks",
+  "description": "",
   "dependencies": {
     "@google-cloud/vision": "^2.4.2",
     "consola": "^2.15.3",
@@ -25,7 +25,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/fdciabdul/mutasi-scraper.git"
+    "url": "git+https://github.com/ridho123/octo-scraper.git"
   },
   "keywords": [
     "mutasi",
@@ -33,9 +33,9 @@
     "scraper"
   ],
   "bugs": {
-    "url": "https://github.com/fdciabdul/mutasi-scraper/issues"
+    "url": "https://github.com/ridho123/octo-scraper/issues"
   },
-  "homepage": "https://github.com/fdciabdul/mutasi-scraper#readme",
+  "homepage": "https://github.com/ridho123/octo-scraper#readme",
   "devDependencies": {
     "jest": "28.1.2",
     "jest-puppeteer": "6.1.0"
